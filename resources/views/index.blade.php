@@ -1,0 +1,1 @@
+@extends("layouts.HomePage",["title"=>"Kidder "])
